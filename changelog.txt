@@ -1,2 +1,3 @@
 Initial project setup.
 Project files created successfully.
+Version control managed using Git.
